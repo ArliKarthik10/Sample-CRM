@@ -139,12 +139,6 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
-## 🧪 Testing
-
-Run backend tests with pytest:
-```bash
-pytest
-```
 
 ## 📚 API Documentation
 
